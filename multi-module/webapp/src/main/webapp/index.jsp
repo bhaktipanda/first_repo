@@ -40,17 +40,7 @@ button:hover {
     background-color: #f44336;
 }
 
-/* Center the avatar image inside this container */
-.imgcontainer {
-    text-align: center;
-    margin: 24px 0 12px 0;
-}
 
-/* Avatar image */
-img.avatar {
-    width: 40%;
-    border-radius: 50%;
-}
 
 /* Add padding to containers */
 .container {
@@ -77,8 +67,8 @@ span.psw {
 </head>
  <body>
  <form action="/action_page.php">
-  <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+  <div>
+  <h1>Login Page</h1>
   </div>
 
   <div class="container">
